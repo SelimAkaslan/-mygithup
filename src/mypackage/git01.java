@@ -10,6 +10,8 @@ public class git01 {
 		
 		System.out.println("Deneme commit");
 		
+		System.out.println("Son commit");
+		
 
 	}
 
