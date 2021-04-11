@@ -6,6 +6,10 @@ public class git01 {
 		
 		System.out.println("Ilk commit");
 		
+		System.out.println("Ikinci commit");
+		
+		System.out.println("Deneme commit");
+		
 
 	}
 
